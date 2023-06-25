@@ -1,5 +1,3 @@
-# server.py
-
 import os
 import sys
 import zlib

@@ -160,7 +160,7 @@ frame.columnconfigure(1, weight=1)
 root.mainloop()
 
 # This code defines a client-side application for uploading consciousness data to a server. 
-# The application features a graphical user interface (GUI) using the Tkinter library and is capable of compressing and 
+# The application features a GUI using the Tkinter library and is capable of compressing and 
 # encrypting the data before sending it to the server. Here's a breakdown of the code:
 
 """
